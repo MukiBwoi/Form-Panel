@@ -35,8 +35,10 @@
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(24,9,121,1) 0%, rgba(0,212,255,1) 100%);
     font-weight: bold;
+    border: none;
 }
 
-.main .form-area .form-elements .row .col-6 .form-label{
+.main .form-area .form-elements .row .col-lg-6 .form-label{
     font-weight: bold;
 }
+
